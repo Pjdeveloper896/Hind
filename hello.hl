@@ -1,0 +1,43 @@
+# Basic variable assignment
+naam x = 5
+naam y = 10
+
+# Arithmetic operations
+jod x y
+ghat y x
+guna x y
+bhaag y x
+
+# String concatenation
+naam naam1 = Ram
+naam naam2 = Shyam
+jodo naam1 naam2
+
+# Conditional
+agar x > 3 to
+    chhapo x bada hai 3 se
+warna
+    chhapo x chhota hai ya barabar 3 ke
+khatam
+
+# Loop
+ghoom 3 baar
+    chhapo Hello world
+khatam
+
+# Function definition and call
+banao badhao(a,b)
+    naam result = jod a b
+    wapis result
+khatam
+
+badhao 2 3
+
+# Input (commented out to avoid blocking)
+# pucho naam
+
+# HTTP server and route
+server shuru port 8080
+
+jab GET /hello to Hello from Hinglish server!
+jab POST /data to Data mila!
