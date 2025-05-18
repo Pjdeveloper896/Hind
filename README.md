@@ -3,7 +3,7 @@
 # 📘 Hind Runtime Documentation
 
 The **Hind Runtime** is the official interpreter for the `.hl` Hinglish Programming Language — a simple, fun scripting language using Hindi-English syntax.
-
+![Hind Banner](https://pjdeveloper896.github.io/Hind/Hind.png)
 ---
 
 ## 🔧 Overview
